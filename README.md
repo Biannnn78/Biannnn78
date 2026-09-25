@@ -33,3 +33,22 @@ const developer = {
     currentInterests: ["React", "TypeScript", "Tailwind CSS"],
     hobbies: ["Exploring Tech", "Music", "Gaming"]
 };
+
+```
+<p align="center">
+  <a href="https://github.com/Biannnn78/frieren-showcase">Explore my project ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Biannnn78?tab=repositories">All repositories</a>
+</p>
+
+### Currently exploring
+
+<p>
+  <img src="https://img.shields.io/badge/React-182B28?style=flat-square&logo=react&logoColor=B9D8CB" alt="Exploring React" />
+  <img src="https://img.shields.io/badge/TypeScript-182B28?style=flat-square&logo=typescript&logoColor=B9D8CB" alt="Exploring TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-182B28?style=flat-square&logo=tailwindcss&logoColor=B9D8CB" alt="Exploring Tailwind CSS" />
+</p>
+
+<br />
+
+<p align="center"><sub>One small project, one step further.</sub></p>
